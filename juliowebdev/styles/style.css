@@ -220,8 +220,7 @@ nav a:hover {
 }
 /* works.html */
 #headline {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/juliowebdev/images/code_bg.jpg");
-
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/juliowebdev/images/code_bg.jpg"), url("wdd130/juliowebdev/images/code_bg.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -276,8 +275,7 @@ nav a:hover {
 
 /* contact.html */
 #headline-contact {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/juliowebdev/images/letters.jpg");
-
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/juliowebdev/images/letters.jpg"), url("wdd130/juliowebdev/images/letters.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
