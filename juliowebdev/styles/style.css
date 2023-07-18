@@ -356,6 +356,9 @@ nav a:hover {
   padding-left: 30px;
   text-align: center;
 }
+.relax-box a {
+  color: white;
+}
 .relax-container {
   grid-column: 1/3;
   grid-row: 1/3;
